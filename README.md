@@ -19,12 +19,15 @@
 
 ### 1. Cloner le dépôt
 ```shell
-git clone https://github.com/valorisa/chatgpt_clone_by_bertie.git cd chatgpt_clone_by_bertie
+git clone https://github.com/valorisa/chatgpt_clone_by_bertie.git
+cd chatgpt_clone_by_bertie
 ```
 
 ### 2. Créer un environnement virtuel (recommandé)
 ```shell
-python -m venv venv source venv/bin/activate # Sur Windows: venv\Scripts\activate
+python -m venv venv
+source venv/bin/activate
+# Sur Windows: venv\Scripts\activate
 ```
 
 ### 3. Installer les dépendances
