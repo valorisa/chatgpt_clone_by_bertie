@@ -1,6 +1,5 @@
 ![Capture d’écran 2025-03-17 à 13 35 56](https://github.com/user-attachments/assets/4514cfa6-2705-42a5-8110-69538f479d16)
 
-
 # chatgpt_clone_by_bertie
 
 ## Description
