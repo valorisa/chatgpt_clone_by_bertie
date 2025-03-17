@@ -101,7 +101,7 @@ chatgpt_clone_by_bertie/
 - **Python-dotenv** - Gestion des variables d'environnement
 
 ## Licence
-Ce projet est disponible sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est disponible sous licence GPL-3.0 license. Voir le fichier LICENSE pour plus de détails.
 
 ## Crédits
 - Interface inspirée de ChatGPT.com
