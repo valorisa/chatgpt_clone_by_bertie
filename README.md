@@ -78,7 +78,17 @@ Si vous recevez l'erreur "You exceeded your current quota", cela signifie que vo
 
 ## Structure du projet
 ```bash
-chatgpt_clone_by_bertie/ ├── app.py # Application principale ├── .env # Configuration des clés API (à créer) ├── requirements.txt # Dépendances du projet └── assets/ # Dossier pour les fichiers temporaires ├── audio/ # Fichiers audio téléchargés ├── images/ # Images générées et téléchargées └── pdfs/ # Fichiers PDF téléchargés
+chatgpt_clone_by_bertie/
+├── app.py                 # Script principal contenant l'application Gradio
+├── .env                   # Fichier de configuration pour la clé API OpenAI (à créer manuellement)
+├── requirements.txt       # Liste des dépendances Python nécessaires au projet
+├── LICENSE                # Fichier de licence (MIT) décrivant les droits d'utilisation du projet
+├── README.md              # Documentation principale du projet
+└── assets/                # Dossier contenant les fichiers temporaires et téléchargés
+    ├── audio/             # Dossier pour les fichiers audio importés par l'utilisateur
+    ├── images/            # Dossier pour les images générées ou téléchargées
+    └── pdfs/              # Dossier pour les fichiers PDF analysés
+
 ```
 
 ## Technologies utilisées
