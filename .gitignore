@@ -1,0 +1,22 @@
+# Variables d'environnement
+.env
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+
+# Dossiers de contenu générés
+assets/audio/
+assets/images/
+assets/pdfs/
+
+# Fichiers système
+.DS_Store
+.vscode/
