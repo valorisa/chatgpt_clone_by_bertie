@@ -1,5 +1,6 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+# GNU GENERAL PUBLIC LICENSE
+
+Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
@@ -70,7 +71,7 @@ modification follow.
 
                        TERMS AND CONDITIONS
 
-  0. Definitions.
+  1. Definitions.
 
   "This License" refers to version 3 of the GNU General Public License.
 
@@ -109,7 +110,7 @@ work under this License, and how to view a copy of this License.  If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
 
-  1. Source Code.
+  2. Source Code.
 
   The "source code" for a work means the preferred form of the work
 for making modifications to it.  "Object code" means any non-source
@@ -151,7 +152,7 @@ Source.
   The Corresponding Source for a work in source code form is that
 same work.
 
-  2. Basic Permissions.
+  3. Basic Permissions.
 
   All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
@@ -657,7 +658,7 @@ notice like this when it starts in an interactive mode:
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
 
-The hypothetical commands `show w' and `show c' should show the appropriate
+The hypothetical commands `show w` and `show c` should show the appropriate
 parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
@@ -672,4 +673,3 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
-
