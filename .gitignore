@@ -21,3 +21,6 @@ assets/pdfs/
 # Fichiers système
 .DS_Store
 .vscode/
+
+# Fichiers propres au(x) workspace(s) de VSCode
+*.code-workspace
